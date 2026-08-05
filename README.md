@@ -78,15 +78,23 @@ Work I can't open-source but can talk about all day:
 
 ---
 
-## 📊 Numbers
+## 📊 Numbers that matter
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hafizradzi8901&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" alt="GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafizradzi8901&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="Top languages"/>
+
+<img src="https://img.shields.io/badge/edge_AI-59_FPS_@_15_W-38bdf8?style=for-the-badge&logo=nvidia&logoColor=white" alt="59 FPS at 15W"/>
+<img src="https://img.shields.io/badge/mAP%400.5-0.995-818cf8?style=for-the-badge&logo=pytorch&logoColor=white" alt="mAP 0.995"/>
+<img src="https://img.shields.io/badge/production_systems-5%2B-22c55e?style=for-the-badge&logo=vercel&logoColor=white" alt="5+ production systems"/>
+
+<img src="https://img.shields.io/badge/live_SaaS-skipedit.app-06b6d4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="live SaaS"/>
+<img src="https://img.shields.io/badge/agent_bug--hunts-18_bugs_caught_pre--launch-ef4444?style=for-the-badge&logo=openbugbounty&logoColor=white" alt="18 bugs caught"/>
+<img src="https://img.shields.io/badge/LLM_trained_from_scratch-1.58--bit_%C3%97_0.15B-f472b6?style=for-the-badge&logo=huggingface&logoColor=white" alt="1.58-bit LLM"/>
+
 </div>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hafizradzi8901&theme=tokyo-night&hide_border=true&area=true" width="92%" alt="Contribution activity"/>
+  <br/><sub><em>Most of my day-to-day work lives in private client repos — the public graph is the tip of the iceberg.</em></sub>
 </div>
 
 ---
