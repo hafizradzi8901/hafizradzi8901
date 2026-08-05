@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- HERO — swap assets/banner.svg for a Higgsfield-generated banner.gif anytime -->
-<img src="assets/banner.svg" width="100%" alt="Mohamad Hafiz — Mechatronics × Software × AI"/>
+<!-- HERO — Higgsfield-generated loop with baked-in title (assets/banner.svg kept as fallback) -->
+<img src="assets/banner.gif" width="100%" alt="Mohamad Hafiz — Mechatronics × Software × AI"/>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=760&lines=Mechatronics+engineer+who+ships+across+the+stack;I+architect+%E2%80%94+an+AI+agent+fleet+types;Machine+vision+running+on+live+production+lines;From+1.58-bit+LLM+kernels+to+industrial+PLCs" alt="typing intro"/>
 
@@ -20,6 +20,10 @@
 I'm an **AI-native engineer**: I treat agentic AI (Claude Code, ChatGPT) as my engineering team — I set
 the architecture, the guardrails, and the review bar; the agents multiply the throughput. It's how one
 final-year student ships like a small team, without shipping slop:
+
+<div align="center">
+  <img src="assets/agent-fleet.gif" width="82%" alt="One engineer commanding a fleet of AI agents"/>
+</div>
 
 - 🏭 **5+ production full-stack systems** for enterprise & government clients in ~12 months
 - 🚀 **A live SaaS** — [skipedit.app](https://skipedit.app) — solo-built *and* solo-operated: GPU workers, payments verified with real money in both directions (purchase **and** refund clawback)
