@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 300" width="1280" height="300" role="img" aria-label="Mohamad Hafiz — Mechatronics x Software x AI">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0b1220"/>
+      <stop offset="55%" stop-color="#0e1a33"/>
+      <stop offset="100%" stop-color="#0b1220"/>
+    </linearGradient>
+    <linearGradient id="txt" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#38bdf8"/>
+      <stop offset="50%" stop-color="#818cf8"/>
+      <stop offset="100%" stop-color="#22d3ee"/>
+    </linearGradient>
+    <filter id="glow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="4" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <style>
+    .trace { fill: none; stroke: #1e3a5f; stroke-width: 2; }
+    .live  { fill: none; stroke: #38bdf8; stroke-width: 2; stroke-linecap: round;
+             stroke-dasharray: 60 640; animation: flow 6s linear infinite; }
+    .live2 { stroke: #818cf8; animation-delay: -3s; }
+    .live3 { stroke: #22d3ee; animation-delay: -1.5s; }
+    .node  { fill: #38bdf8; animation: pulse 2.4s ease-in-out infinite; }
+    .n2 { animation-delay: -0.8s; fill: #818cf8; }
+    .n3 { animation-delay: -1.6s; fill: #22d3ee; }
+    @keyframes flow  { to { stroke-dashoffset: -700; } }
+    @keyframes pulse { 0%,100% { opacity: .25; } 50% { opacity: 1; } }
+    .name { font: 800 58px 'Segoe UI', Helvetica, Arial, sans-serif; letter-spacing: 2px; }
+    .sub  { font: 600 21px 'Segoe UI', Helvetica, Arial, sans-serif; letter-spacing: 6px; fill: #93c5fd; }
+    .tag  { font: 500 15px 'Consolas', 'Courier New', monospace; fill: #64748b; }
+  </style>
+
+  <rect width="1280" height="300" fill="url(#bg)"/>
+
+  <!-- circuit traces (static rails + animated current) -->
+  <g>
+    <path class="trace" d="M0 60 H320 L370 110 H560"/>
+    <path class="live"  d="M0 60 H320 L370 110 H560"/>
+    <path class="trace" d="M0 240 H260 L310 190 H520"/>
+    <path class="live live2" d="M0 240 H260 L310 190 H520"/>
+    <path class="trace" d="M1280 70 H1000 L950 120 H760"/>
+    <path class="live live3" d="M1280 70 H1000 L950 120 H760"/>
+    <path class="trace" d="M1280 235 H1040 L990 185 H780"/>
+    <path class="live"  d="M1280 235 H1040 L990 185 H780"/>
+    <circle class="node" cx="560" cy="110" r="5"/>
+    <circle class="node n2" cx="520" cy="190" r="5"/>
+    <circle class="node n3" cx="760" cy="120" r="5"/>
+    <circle class="node n2" cx="780" cy="185" r="5"/>
+    <circle class="node n3" cx="320" cy="60" r="4"/>
+    <circle class="node" cx="1000" cy="70" r="4"/>
+  </g>
+
+  <g text-anchor="middle" filter="url(#glow)">
+    <text x="640" y="145" class="name" fill="url(#txt)">MOHAMAD HAFIZ</text>
+  </g>
+  <g text-anchor="middle">
+    <text x="640" y="190" class="sub">MECHATRONICS &#215; SOFTWARE &#215; AI</text>
+    <text x="640" y="228" class="tag">// one engineer + an agent fleet — production systems, machine vision, edge AI</text>
+  </g>
+</svg>
