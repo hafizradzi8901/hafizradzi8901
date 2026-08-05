@@ -78,22 +78,6 @@ Work I can't open-source but can talk about all day:
 
 ---
 
-## 📊 Numbers that matter
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/edge_AI-59_FPS_@_15_W-38bdf8?style=for-the-badge&logo=nvidia&logoColor=white" alt="59 FPS at 15W"/>
-<img src="https://img.shields.io/badge/mAP%400.5-0.995-818cf8?style=for-the-badge&logo=pytorch&logoColor=white" alt="mAP 0.995"/>
-<img src="https://img.shields.io/badge/production_systems-5%2B-22c55e?style=for-the-badge&logo=vercel&logoColor=white" alt="5+ production systems"/>
-
-<img src="https://img.shields.io/badge/live_SaaS-skipedit.app-06b6d4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="live SaaS"/>
-<img src="https://img.shields.io/badge/agent_bug--hunts-18_bugs_caught_pre--launch-ef4444?style=for-the-badge&logo=openbugbounty&logoColor=white" alt="18 bugs caught"/>
-<img src="https://img.shields.io/badge/LLM_trained_from_scratch-1.58--bit_%C3%97_0.15B-f472b6?style=for-the-badge&logo=huggingface&logoColor=white" alt="1.58-bit LLM"/>
-
-</div>
-
----
-
 ## 🧰 Skills
 
 <div align="center">
