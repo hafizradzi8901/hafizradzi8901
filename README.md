@@ -92,11 +92,6 @@ Work I can't open-source but can talk about all day:
 
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hafizradzi8901&theme=tokyo-night&hide_border=true&area=true" width="92%" alt="Contribution activity"/>
-  <br/><sub><em>Most of my day-to-day work lives in private client repos — the public graph is the tip of the iceberg.</em></sub>
-</div>
-
 ---
 
 ## 🧰 Skills
@@ -114,6 +109,7 @@ Work I can't open-source but can talk about all day:
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/hafizradzi8901/hafizradzi8901/output/github-snake.svg" alt="contribution snake"/>
+  <br/><sub><em>Most of my day-to-day work lives in private client repos — the public graph is the tip of the iceberg.</em></sub>
 </div>
 
 <div align="center">
